@@ -1,0 +1,18 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
